@@ -1,0 +1,13 @@
+header {
+    background-color:lavender;
+    text-align: center;
+
+}
+
+li {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: inline-block;
+    margin-right: 150px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
