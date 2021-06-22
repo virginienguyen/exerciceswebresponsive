@@ -11,3 +11,20 @@ li {
     margin-top: 50px;
     margin-bottom: 50px;
 }
+
+@media screen and (max-width:768px){
+    header {
+        background-color:white;
+        text-align: left;
+    
+    }
+    li {
+        display:list-item;
+        list-style-type: none;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        margin-right: 150px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+}
